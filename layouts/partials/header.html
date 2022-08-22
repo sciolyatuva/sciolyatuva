@@ -1,0 +1,12 @@
+<div id="header">
+    <div class="container">
+        <a id="logo" href='{{ .Site.BaseURL }}'>
+            <img src='{{ "images/souva-logo_web.svg" | relURL }}' alt='{{ .Site.Title }}'/>
+        </a>
+        <nav id="links">
+            {{ range .Site.Menus.main }}
+            <a href='{{ .URL }}'>{{ .Name }}</a>
+            {{ end }}
+        </nav>
+    </div>
+</div>
