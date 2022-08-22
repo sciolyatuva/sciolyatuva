@@ -1,0 +1,5 @@
+---
+menu: main
+---
+
+Lorem ipsum

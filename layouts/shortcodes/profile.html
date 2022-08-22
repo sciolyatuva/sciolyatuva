@@ -1,0 +1,8 @@
+<div class="profile">
+    <h3>{{ .Get 0 }}</h3>
+    <p class="position">
+        <i>{{ .Get 1 }}, Class of {{ .Get 2 }}</i>
+    </p>
+    <img loading="lazy" src="/images/people/{{ .Get 3 }}" alt={{ .Get 0 }}>
+    <p>{{ .Inner | markdownify }}</p>
+</div>

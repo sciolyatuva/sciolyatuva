@@ -1,0 +1,7 @@
+baseURL = 'https://sciolyatuva.org/'
+languageCode = 'en-us'
+title = 'Science Olympiad at UVA'
+enableGitInfo = true
+
+[params]
+email = 'sciolyatuva@gmail.com'
