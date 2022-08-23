@@ -2,6 +2,7 @@ baseURL = 'https://sciolyatuva.org/'
 languageCode = 'en-us'
 title = 'Science Olympiad at UVA'
 enableGitInfo = true
+disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
 email = 'sciolyatuva@gmail.com'
