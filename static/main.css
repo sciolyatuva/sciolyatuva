@@ -115,17 +115,17 @@ main {
   text-decoration: underline;
 }
 
-.big-orange-box {
+.navigation-cards {
   background-color: var(--orange);
   padding: 3rem 0 3rem 0;
 }
 
-.big-orange-box > .container {
+.navigation-cards > .container {
   display: flex;
   justify-content: space-evenly;
 }
 
-.big-blue-box {
+.navigation-card {
   padding: 1.5rem 0.5rem 1.5rem 0.5rem;
   text-align: center;
   color: var(--blue-light);
@@ -133,7 +133,7 @@ main {
   width: 20rem;
 }
 
-.big-blue-box > :first-child {
+.navigation-card > :first-child {
   margin-top: 0;
 }
 

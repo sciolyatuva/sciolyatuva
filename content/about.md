@@ -1,11 +1,9 @@
 ---
-title: About
+title: About Us
 menu:
   - main
   - box
 ---
-
-# About Us
 
 Meet our team!
 

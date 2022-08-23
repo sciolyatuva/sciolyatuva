@@ -6,4 +6,4 @@ menu:
 draft: true
 ---
 
-# Our Tournaments
+Lorem ipsum
