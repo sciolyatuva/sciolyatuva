@@ -50,6 +50,10 @@ a {
   color: var(--blue-light);
 }
 
+p {
+  line-height: 1.5;
+}
+
 a:hover {
   filter: brightness(0.8);
 }
