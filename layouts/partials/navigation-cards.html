@@ -1,12 +1,15 @@
 <div class="navigation-cards">
   <div class="container">
     {{ range .Site.Menus.box }}
-    <div class="navigation-card">
-      <h3>{{ .Title }}</h3>
-      <div class="button">
-        <a href="{{ .URL | relURL }}">More</a>
+    <a href="{{ .URL | relURL }}">
+      <div class="navigation-card">
+        <h3>{{ .Title }}</h3>
+        {{ with .Page.Params }}
+          <img class="box-image" src="{{ .Img }}">
+          <p>{{ .Desc }}</p>
+        {{ end }}
       </div>
-    </div>
+    </a>
     {{ end }}
   </div>
 </div>

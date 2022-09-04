@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+<button class="{{ .Get 0 }}">
+  <a
+          href="{{ .Get 2 }}"
+          {{ if .Get 3 }} target="_blank" {{ end }}
+  >{{ .Get 1 }}</a>
+</button>
