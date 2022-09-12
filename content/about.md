@@ -25,7 +25,7 @@ Sophia is a third-year from Syosset, NY, majoring in Global Public Health and Bi
 Alvin Meng is a second-year from Vienna, VA, majoring in Chemistry and Mathematics. Among his favorite events are Astronomy, Dynamic Planet (but only tectonics!), and Chemistry Lab, though a part of him wishes that he did more build events. His greatest SciOly memories must be from those trips he went on with his team, not the least of which is The Soup Saga (which is much too long for this little blurb -- and no, it's not related to the invitational).
 {{< /profile >}}
 
-{{< profile "Samyu Belde" "Treasurer" "2025" "placeholder.png" >}}
+{{< profile "Samyu Belde" "Treasurer" "2025" "samyu-belde.jpg" >}}
 Bio coming soon!
 {{< /profile >}}
 
