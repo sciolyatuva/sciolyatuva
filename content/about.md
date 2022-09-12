@@ -13,7 +13,7 @@ Meet our team!
 
 {{< make-div "profiles" >}}
 
-{{< profile "Kwanwoo Park" "President" "2024" "placeholder.png" >}}
+{{< profile "Kwanwoo Park" "President" "2024" "kwanwoo-park.png" >}}
 Bio coming soon!
 {{< /profile >}}
 
