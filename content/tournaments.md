@@ -40,7 +40,7 @@ We will be running the following events at the invitational:
 
 Registration for the 2022 Science Olympiad at UVA Invitational is **now open!** You can register at [this link](https://forms.gle/DojWyxaYSjCZ66KR6). Registration closes at midnight on October 17, 2022.
 
-Registration is limited to 60 teams total and three teams per school. Virginia teams will receive priority. The fees for this invitational will be \$70 per team. If this fee is a barrier for your team, don't hesitate to reach out.
+Registration is limited to 60 teams total and three teams per school. Virginia teams will receive priority. The fees for this invitational will be \$70 per team. If this fee is a barrier for your team, don't hesitate to reach out at [sciolyatuva@gmail.com}(mailto:sciolyatuva@gmail.com).
 
 ### Volunteers
 
@@ -51,7 +51,7 @@ It takes a lot of people to run a tournament, and we need your help! If you're i
 * **Exam Reviewer** -- Your primary role is to review exams for quality and rules adherence. Sign up [here](https://forms.gle/GPZ7B21kT9RSHSnK8)!
 * **Exam Writer** -- Your primary role is to write an exam for an event you are assigned to. Sign up [here](https://forms.gle/ZWu8mbNNhSoHxK76A)!
 
-We are looking for *high school graduates or above* to assist in all of the above roles.
+We are looking for *high school graduates or above* to assist in all of the above roles. These roles are open to UVA and non-UVA students alike. Feel free to contact us at [sciolyatuva@gmail.com}(mailto:sciolyatuva@gmail.com) for more information!
 
 ## State
 
