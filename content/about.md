@@ -14,11 +14,11 @@ Meet our team!
 {{< make-div "profiles" >}}
 
 {{< profile "Kwanwoo Park" "President" "2024" "kwanwoo-park.png" >}}
-Bio coming soon!
+Kwanwoo Park is a second-year from Great Falls, VA, majoring in Chemistry and minoring in Japanese. His favorite SciOly event is Food Science, although he has never competed in the event before. His greatest SciOly memories was bonding with teammates on the way to Cornell Invitational during 2019.
 {{< /profile >}}
 
 {{< profile "Sophia Jang" "Vice President" "2024" "sophia-jang.png" >}}
-Sophia is a third-year from Syosset, NY, majoring in Global Public Health and Biology. Her favorite SciOly event is Microbe Mission (where are our biology nerds at?). Her favorite SciOly moments were probably at the first invitational and EXTREMELY chaotic last state tournament in 2019. Special shout-out to the stuffed animals along the way.
+Sophia is a third-year from Syosset, NY, majoring in Global Public Health and Biology. Her favorite SciOly event is Microbe Mission (where are our biology nerds at?) Her favorite SciOly moments were probably at the first invitational and EXTREMELY chaotic last state tournament in 2019. Special shout-out to the stuffed animals along the way.
 {{< /profile >}}
 
 {{< profile "Alvin Meng" "Secretary" "2025" "alvin-meng.jpg" >}}
