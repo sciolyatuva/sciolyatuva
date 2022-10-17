@@ -45,11 +45,30 @@ Shreyas is a first-year from Lorton, VA, intending to major in Computer Science.
 
 ## Tournament Staff
 
+{{< make-div "profiles" >}}
+
+{{< profile "Eunu Lim" "Earth and Space Science Event Coordinator" "2025" "placeholder.png" >}}
+Bio coming soon!
+{{< /profile >}}
+
 {{< profile "Ryan Murray" "Inquiry and Nature of Science Event Coordinator" "2026" "ryan-murray.jpg" >}}
 Ryan is a first-year from Springfield, VA, intending to major in Mechanical Engineering. His favorite SciOly event has to be Write It Do It -- he loves how complicated it can be to describe something perfectly. Highlights from his SciOly career include grinding cryptograms during online class and testing Wright Stuff planes every morning before sunrise.
 {{< /profile >}}
 
-{{< profile "Rishi Sarraff" "Life, Personal, and Social Science Event Coordinator" "2026" "placeholder.png" >}}
-Rishi is a first-year from Chantilly, VA, intending to major in Neuroscience on the pre-med track. His favorite SciOly event is Anatomy and Physiology, though Codebusters comes in at a close second.
+{{< profile "Krishna Girish Kumar" "Life, Personal, and Social Science Event Coordinator" "2026" "placeholder.png" >}}
+Bio coming soon!
 {{< /profile >}}
 
+{{< profile "Rishi Sarraff" "Life, Personal, and Social Science Event Coordinator" "2026" "rishi-sarraff.jpg" >}}
+Rishi is a first-year from Chantilly, VA, intending to major in Neuroscience on the pre-med track. His favorite SciOly event is Anatomy and Physiology, though Codebusters comes in at a close second. Notable SciOly memories of his include scootering between back-to-back events on opposite ends of Grounds.
+{{< /profile >}}
+
+{{< profile "Aishani Patnaik" "Physical Science and Chemistry Event Coordinator" "2026" "placeholder.png" >}}
+Bio coming soon!
+{{< /profile >}}
+
+{{< profile "Pranav Kanapuram" "Physical Science and Chemistry Event Coordinator" "2024" "placeholder.png" >}}
+Bio coming soon!
+{{< /profile >}}
+
+{{< make-div >}}
