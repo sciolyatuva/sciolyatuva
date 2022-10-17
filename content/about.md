@@ -14,7 +14,7 @@ Meet our team!
 {{< make-div "profiles" >}}
 
 {{< profile "Kwanwoo Park" "President" "2024" "kwanwoo-park.png" >}}
-Kwanwoo Park is a second-year from Great Falls, VA, majoring in Chemistry and minoring in Japanese. His favorite SciOly event is Food Science, although he has never competed in the event before. His greatest SciOly memories was bonding with teammates on the way to Cornell Invitational during 2019.
+Kwanwoo is a second-year from Great Falls, VA, majoring in Chemistry and minoring in Japanese. His favorite SciOly event is Food Science, although he has never competed in the event before. His greatest SciOly memories was bonding with teammates on the way to Cornell Invitational during 2019.
 {{< /profile >}}
 
 {{< profile "Sophia Jang" "Vice President" "2024" "sophia-jang.png" >}}
@@ -22,7 +22,7 @@ Sophia is a third-year from Syosset, NY, majoring in Global Public Health and Bi
 {{< /profile >}}
 
 {{< profile "Alvin Meng" "Secretary" "2025" "alvin-meng.jpg" >}}
-Alvin Meng is a second-year from Vienna, VA, majoring in Chemistry and Mathematics. Among his favorite events are Astronomy, Dynamic Planet (but only tectonics!), and Chemistry Lab, though a part of him wishes that he did more build events. His greatest SciOly memories must be from those trips he went on with his team, not the least of which is The Soup Saga (which is much too long for this little blurb -- and no, it's not related to the invitational).
+Alvin is a second-year from Vienna, VA, majoring in Chemistry and Mathematics. Among his favorite events are Astronomy, Dynamic Planet (but only tectonics!), and Chemistry Lab, though a part of him wishes that he did more build events. His greatest SciOly memories must be from those trips he went on with his team, not the least of which is The Soup Saga (which is much too long for this little blurb -- and no, it's not related to the invitational).
 {{< /profile >}}
 
 {{< profile "Samyu Belde" "Treasurer" "2025" "samyu-belde.jpg" >}}
@@ -42,3 +42,14 @@ Shreyas is a first-year from Lorton, VA, intending to major in Computer Science.
 {{< /profile >}}
 
 {{< /make-div >}}
+
+## Tournament Staff
+
+{{< profile "Ryan Murray" "Inquiry and Nature of Science Event Coordinator" "2026" "ryan-murray.jpg" >}}
+Ryan is a first-year from Springfield, VA, intending to major in Mechanical Engineering. His favorite SciOly event has to be Write It Do It -- he loves how complicated it can be to describe something perfectly. Highlights from his SciOly career include grinding cryptograms during online class and testing Wright Stuff planes every morning before sunrise.
+{{< /profile >}}
+
+{{< profile "Rishi Sarraff" "Life, Personal, and Social Science Event Coordinator" "2026" "placeholder.png" >}}
+Rishi is a first-year from Chantilly, VA, intending to major in Neuroscience on the pre-med track. His favorite SciOly event is Anatomy and Physiology, though Codebusters comes in at a close second.
+{{< /profile >}}
+
