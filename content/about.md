@@ -71,4 +71,4 @@ Bio coming soon!
 Bio coming soon!
 {{< /profile >}}
 
-{{< make-div >}}
+{{</ make-div >}}
