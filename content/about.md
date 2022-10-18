@@ -47,8 +47,8 @@ Shreyas is a first-year from Lorton, VA, intending to major in Computer Science.
 
 {{< make-div "profiles" >}}
 
-{{< profile "Eunu Lim" "Earth and Space Science Event Coordinator" "2025" "placeholder.png" >}}
-Bio coming soon!
+{{< profile "Eunu Lim" "Earth and Space Science Event Coordinator" "2023" "placeholder.png" >}}
+Eunu is a third-year from Fairfax, VA, majoring in Neuroscience. His favorite SciOly events are Remote Sensing and Geologic Mapping. His favorite SciOly memory is when he participated in a group prayer to the roasted chicken in the hotel freezer with his teammates the day before 2019 States.
 {{< /profile >}}
 
 {{< profile "Ryan Murray" "Inquiry and Nature of Science Event Coordinator" "2026" "ryan-murray.jpg" >}}
