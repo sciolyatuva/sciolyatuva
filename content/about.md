@@ -56,7 +56,7 @@ Ryan is a first-year from Springfield, VA, intending to major in Mechanical Engi
 {{< /profile >}}
 
 {{< profile "Krishna Girish Kumar" "Life, Personal, and Social Science Event Coordinator" "2026" "placeholder.png" >}}
-Bio coming soon!
+Krishna is a first-year from Falls Church, VA, intending to major in Biochemistry and Neuroscience on the pre-health track. Protein Modeling's combination of conceptual knowledge with technology and building made it his favorite event, but he's also fond of Disease Detectives and Anatomy and Physiology. Krishna vividly remembers exploring (and getting lost on) Grounds with his friends as a freshman, and likes to think that everything has finally come full circle.
 {{< /profile >}}
 
 {{< profile "Rishi Sarraff" "Life, Personal, and Social Science Event Coordinator" "2026" "rishi-sarraff.jpg" >}}
