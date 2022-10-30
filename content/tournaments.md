@@ -36,22 +36,7 @@ We will be running the following events at the invitational:
 * WiFi Lab
 * Write It Do It
 
-### Register
-
-Registration for the 2022 Science Olympiad at UVA Invitational is **now open!** You can register at [this link](https://forms.gle/DojWyxaYSjCZ66KR6). Registration closes at midnight on October 17, 2022.
-
-Registration is limited to 60 teams total and three teams per school. Virginia teams will receive priority. The fees for this invitational will be \$70 per team. If this fee is a barrier for your team, don't hesitate to reach out at [sciolyatuva@gmail.com](mailto:sciolyatuva@gmail.com).
-
-### Volunteers
-
-It takes a lot of people to run a tournament, and we need your help! If you're interested in volunteering, we have a number of roles available:
-
-* **Event Supervisor** -- Your primary role is to monitor Scilympiad on the day of the tournament and ensure that everything is running smoothly. Sign up [here](https://forms.gle/xk4NuzqfpV7PyApLA)!
-* **Exam Grader** -- Your primary role is to grade exams for the events you are assigned to. Sign up [here](https://forms.gle/eucmgdSGtTdmKSUB8)!
-* **Exam Reviewer** -- Your primary role is to review exams for quality and rules adherence. Sign up [here](https://forms.gle/GPZ7B21kT9RSHSnK8)!
-* **Exam Writer** -- Your primary role is to write an exam for an event you are assigned to. Sign up [here](https://forms.gle/ZWu8mbNNhSoHxK76A)!
-
-We are looking for *high school graduates or above* to assist in all of the above roles. These roles are open to UVA and non-UVA students alike. Feel free to contact us at [sciolyatuva@gmail.com](mailto:sciolyatuva@gmail.com) for more information!
+If your team is competing in the SOUVA Invitational, make sure to read our [coaches' guide](https://docs.google.com/document/d/127Y6WwoEM8Sai30HJeXq8U77AWxCL6vIk5XTC6XXNOk/view)! It contains important information regarding the tournament, including the day-of schedule, payment information, and tournament policies.
 
 ## State
 
