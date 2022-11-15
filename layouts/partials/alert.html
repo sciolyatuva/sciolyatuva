@@ -1,0 +1,5 @@
+{{ if (isset .Site.Params "alert") }}
+<div class="alert">
+    <p>{{ .Site.Params.alert | markdownify }}</p>
+</div>
+{{ end }}

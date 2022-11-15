@@ -12,6 +12,8 @@ html {
   --blue: #1c3262;
   --blue-light: #c6dbe8;
   --orange: #ff914d;
+  --red: #ff4d62;
+  /* change red color */
   --max-content-width: 1200px;
   --min-side-padding: 2rem;
   --border-radius: 10px;
@@ -228,4 +230,11 @@ button {
 .register-button > a {
   color: white;
   text-decoration: none;
+}
+
+.alert {
+  background-color: var(--red);
+  text-align: center;
+  color: white;
+  font-weight: 700;
 }
