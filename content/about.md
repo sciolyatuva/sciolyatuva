@@ -42,33 +42,3 @@ Shreyas is a first-year from Lorton, VA, intending to major in Computer Science.
 {{< /profile >}}
 
 {{< /make-div >}}
-
-## Tournament Staff
-
-{{< make-div "profiles" >}}
-
-{{< profile "Eunu Lim" "Earth and Space Science Event Coordinator" "2023" "placeholder.png" >}}
-Eunu is a third-year from Fairfax, VA, majoring in Neuroscience. His favorite SciOly events are Remote Sensing and Geologic Mapping. His favorite SciOly memory is when he participated in a group prayer to the roasted chicken in the hotel freezer with his teammates the day before 2019 States.
-{{< /profile >}}
-
-{{< profile "Ryan Murray" "Inquiry and Nature of Science Event Coordinator" "2026" "ryan-murray.jpg" >}}
-Ryan is a first-year from Springfield, VA, intending to major in Mechanical Engineering. His favorite SciOly event has to be Write It Do It -- he loves how complicated it can be to describe something perfectly. Highlights from his SciOly career include grinding cryptograms during online class and testing Wright Stuff planes every morning before sunrise.
-{{< /profile >}}
-
-{{< profile "Krishna Girish Kumar" "Life, Personal, and Social Science Event Coordinator" "2026" "placeholder.png" >}}
-Krishna is a first-year from Falls Church, VA, intending to major in Biochemistry and Neuroscience on the pre-health track. Protein Modeling's combination of conceptual knowledge with technology and building made it his favorite event, but he's also fond of Disease Detectives and Anatomy and Physiology. Krishna vividly remembers exploring (and getting lost on) Grounds with his friends as a freshman, and likes to think that everything has finally come full circle.
-{{< /profile >}}
-
-{{< profile "Rishi Sarraff" "Life, Personal, and Social Science Event Coordinator" "2026" "rishi-sarraff.jpg" >}}
-Rishi is a first-year from Chantilly, VA, intending to major in Neuroscience on the pre-med track. His favorite SciOly event is Anatomy and Physiology, though Codebusters comes in at a close second. Notable SciOly memories of his include scootering between back-to-back events on opposite ends of Grounds.
-{{< /profile >}}
-
-{{< profile "Aishani Patnaik" "Physical Science and Chemistry Event Coordinator" "2026" "placeholder.png" >}}
-Bio coming soon!
-{{< /profile >}}
-
-{{< profile "Pranav Kanapuram" "Physical Science and Chemistry Event Coordinator" "2024" "placeholder.png" >}}
-Bio coming soon!
-{{< /profile >}}
-
-{{</ make-div >}}

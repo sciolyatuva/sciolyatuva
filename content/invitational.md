@@ -1,16 +1,14 @@
 ---
-title: Tournaments
+title: Invitational
 menu:
 - main
 - box
 draft: false
-desc: Check out our tournaments for the 2022-23 season!
+desc: SOUVA is hosting its first invitational in November 2022!
 img: /images/kcdwec.jpg
 ---
 
-## Invitational
-
-### Cancellation Notice
+## Cancellation Notice
 
 Good evening all,
 
@@ -36,7 +34,7 @@ SOUVA Executive Board and Staff
 
 November 14, 2022
 
-### Previous Information
+## Previous Information
 
 *Note: the following information is preserved for historical purposes. The 2022 SOUVA Invitational has been canceled.*
 
@@ -68,8 +66,32 @@ We will be running the following events at the invitational:
 
 If your team is competing in the SOUVA Invitational, make sure to read our [coaches' guide](https://docs.google.com/document/d/127Y6WwoEM8Sai30HJeXq8U77AWxCL6vIk5XTC6XXNOk/view)! It contains important information regarding the tournament, including the day-of schedule, payment information, and tournament policies.
 
-## State
+## Tournament Staff
 
-Science Olympiad at UVA is excited to welcome teams back on Grounds for the 2023 Virginia Science Olympiad State Tournament!
-The tournament is expected to take place on **March 25, 2023**. We will update this page when more
-information is released.
+{{< make-div "profiles" >}}
+
+{{< profile "Eunu Lim" "Earth and Space Science Event Coordinator" "2023" "placeholder.png" >}}
+Eunu is a third-year from Fairfax, VA, majoring in Neuroscience. His favorite SciOly events are Remote Sensing and Geologic Mapping. His favorite SciOly memory is when he participated in a group prayer to the roasted chicken in the hotel freezer with his teammates the day before 2019 States.
+{{< /profile >}}
+
+{{< profile "Ryan Murray" "Inquiry and Nature of Science Event Coordinator" "2026" "ryan-murray.jpg" >}}
+Ryan is a first-year from Springfield, VA, intending to major in Mechanical Engineering. His favorite SciOly event has to be Write It Do It -- he loves how complicated it can be to describe something perfectly. Highlights from his SciOly career include grinding cryptograms during online class and testing Wright Stuff planes every morning before sunrise.
+{{< /profile >}}
+
+{{< profile "Krishna Girish Kumar" "Life, Personal, and Social Science Event Coordinator" "2026" "placeholder.png" >}}
+Krishna is a first-year from Falls Church, VA, intending to major in Biochemistry and Neuroscience on the pre-health track. Protein Modeling's combination of conceptual knowledge with technology and building made it his favorite event, but he's also fond of Disease Detectives and Anatomy and Physiology. Krishna vividly remembers exploring (and getting lost on) Grounds with his friends as a freshman, and likes to think that everything has finally come full circle.
+{{< /profile >}}
+
+{{< profile "Rishi Sarraff" "Life, Personal, and Social Science Event Coordinator" "2026" "rishi-sarraff.jpg" >}}
+Rishi is a first-year from Chantilly, VA, intending to major in Neuroscience on the pre-med track. His favorite SciOly event is Anatomy and Physiology, though Codebusters comes in at a close second. Notable SciOly memories of his include scootering between back-to-back events on opposite ends of Grounds.
+{{< /profile >}}
+
+{{< profile "Aishani Patnaik" "Physical Science and Chemistry Event Coordinator" "2026" "placeholder.png" >}}
+Bio coming soon!
+{{< /profile >}}
+
+{{< profile "Pranav Kanapuram" "Physical Science and Chemistry Event Coordinator" "2025" "placeholder.png" >}}
+Pranav is a second-year from Chantilly, VA, who is currently undecided about his major. His favorite events include Machines and Sounds of Music, because you get both a test and a device -- it's the best of both worlds! He fondly remembers staying up late before competitions with his partners to make sure everything was working.
+{{< /profile >}}
+
+{{</ make-div >}}

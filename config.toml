@@ -6,4 +6,4 @@ disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
 email = 'sciolyatuva@gmail.com'
-alert = 'In light of the recent shooting at the University of Virginia, the 2022 Science Olympiad at UVA Invitational has been canceled. [Learn more](/tournaments#cancellation-notice)'
+# alert = 'In light of the recent shooting at the University of Virginia, the 2022 Science Olympiad at UVA Invitational has been canceled. [Learn more](/tournaments#cancellation-notice)'
