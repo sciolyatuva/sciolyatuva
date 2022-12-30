@@ -104,7 +104,7 @@ div.container {
   filter: brightness(0.9);
 }
 
-#links > a {
+#links > a, #menu-toggle {
   color: var(--blue-light);
   text-transform: uppercase;
   text-decoration: none;
@@ -118,6 +118,10 @@ div.container {
 
 #links > :not(:last-child) {
   margin-right: 1em;
+}
+
+#menu-toggle, .hamburger-menu, .hamburger-menu-open {
+  display: none;
 }
 
 main {
@@ -238,3 +242,44 @@ button {
   color: white;
   font-weight: 700;
 }
+
+/* 56 rem is roughly when three cards start touching each other -- tested on a 1920x1080 display */
+@media screen and (max-width: 56rem) {
+  .navigation-cards > .container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navigation-card {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  #links {
+    display: none;
+  }
+
+  #menu-toggle {
+    display: block;
+  }
+
+  .hamburger-menu-open {
+    position: fixed;
+    right: 0;
+    height: 100%;
+    width: 25%;
+    background-color: var(--blue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+}
+
+/*
+Things to fix:
+1. The items should be in a column the whole time when open. (CSS)
+2. The items should be positioned near the top of the hamburger menu. (CSS)
+3. The top of the hamburger menu should be the bottom of the header. (CSS)
+4. The hamburger menu should disappear when the user clicks outside of it. (JS)
+*/

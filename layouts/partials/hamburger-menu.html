@@ -1,0 +1,7 @@
+<div id="hamburger-menu" class="hamburger-menu">
+    <nav id="links">
+      {{ range .Site.Menus.main }}
+      <a href='{{ .URL }}'>{{ .Name }}</a>
+      {{ end }}
+    </nav>
+</div>

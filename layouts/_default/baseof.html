@@ -11,10 +11,13 @@
     </title>
     <link rel="icon" href="/favicon.ico" />
     <link rel="stylesheet" href="/main.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+    <script src="/main.js"></script>
   </head>
   <body>
     {{ partial "header.html" . }}
     {{ partial "alert.html" . }}
+    {{ partial "hamburger-menu.html" . }}
     <main>{{ block "main" . }} {{ end }}</main>
     {{ partial "footer.html" . }}
   </body>
